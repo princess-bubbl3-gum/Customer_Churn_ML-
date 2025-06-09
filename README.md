@@ -21,10 +21,7 @@ The project covers:
 1. Clone the repo:
   git clone https://github.com/princess-bubbl3-gum/Customer_Churn_ML.git
 2. Install dependencies: pip install -r requirements.txt
-3. Run notebooks in the order:
-  - `01_eda.ipynb`
-  - `02_modeling.ipynb`
-  - `03_evaluation.ipynb`
+3. Run notebook
 
 ## Dependencies
   - Python 3.x
