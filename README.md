@@ -30,3 +30,8 @@ The project covers:
   - scikit-learn
   - matplotlib
   - seaborn
+
+---
+👩🏾‍💻 Author
+Divine U. Efiok
+Computer Engineering + Math @ Texas A&M University
